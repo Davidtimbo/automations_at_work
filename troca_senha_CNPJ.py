@@ -44,7 +44,7 @@ def solicitar_cpfcnpj():
 
 # Função para enviar uma solicitação de atualização de senha para o servidor
 def atualizar_senha(token, cpfcnpj):
-    url_atualiza_senha = 'https://api.crasesigma.com.br/api/atualiza-senha'
+    url_atualiza_senha = 'https://api.******'
 
     nova_senha = '***'
 
